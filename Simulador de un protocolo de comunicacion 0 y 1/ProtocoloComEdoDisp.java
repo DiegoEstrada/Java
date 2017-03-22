@@ -1,4 +1,4 @@
-
+﻿
 package protocolocomedodisp;
 
 import java.io.BufferedReader;
@@ -136,7 +136,6 @@ public class ProtocoloComEdoDisp {
         }
         
         System.out.println("Ready");
-        //return cadenas;
     }
     
     public static String GenerarCadenas ()
